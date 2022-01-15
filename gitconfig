@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = athelas85@gmail.com
+	name = Ana Arias
